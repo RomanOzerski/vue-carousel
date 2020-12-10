@@ -111,7 +111,7 @@ export default {
 }
 
 .VueCarousel-navigation--disabled {
-  opacity: 0.5;
+  opacity: 0.0;
   cursor: default;
 }
 
