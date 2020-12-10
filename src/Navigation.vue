@@ -38,14 +38,14 @@ export default {
      */
     nextLabel: {
       type: String,
-      default: "&#9654"
+      default: "fwd"
     },
     /**
      * Text content of the navigation prev button
      */
     prevLabel: {
       type: String,
-      default: "&#9664"
+      default: "bck"
     }
   },
   computed: {
